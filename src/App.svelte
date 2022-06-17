@@ -4,6 +4,7 @@
 
 <main>
 	<h1>Hello {name}!</h1>
+	<h2>niños puerto Maldonado</h2>
 	<p>chikijuegos tiene como mision convertirse en el salon de juegos de niños preferidos por las familias de puerto Maldonado y asi poder extender nuestra marca a nivel nacional.</p>
 </main>
 
